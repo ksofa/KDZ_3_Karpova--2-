@@ -1,0 +1,75 @@
+info;time;edges;ribs
+complete graph dijkstra queue;7733;10;45
+complete graph dijkstra vector;3297;10;45
+complete graph floyd;13831;10;45
+complete graph ford;7340;10;45
+complete graph dijkstra queue;98415;60;1770
+complete graph dijkstra vector;113199;60;1770
+complete graph floyd;2073607;60;1770
+complete graph ford;1418532;60;1770
+complete graph dijkstra queue;233673;110;5995
+complete graph dijkstra vector;301916;110;5995
+complete graph floyd;12240023;110;5995
+complete graph ford;8616806;110;5995
+complete graph dijkstra queue;372257;160;12720
+complete graph dijkstra vector;619932;160;12720
+complete graph floyd;34907607;160;12720
+complete graph ford;29964899;160;12720
+complete graph dijkstra queue;618373;210;21945
+complete graph dijkstra vector;1054782;210;21945
+complete graph floyd;81213456;210;21945
+complete graph ford;57847308;210;21945
+complete graph dijkstra queue;863258;260;33670
+complete graph dijkstra vector;1606149;260;33670
+complete graph floyd;149575898;260;33670
+complete graph ford;110274273;260;33670
+info;time;edges;ribs
+complete graph dijkstra queue;14816;10;45
+complete graph dijkstra vector;6165;10;45
+complete graph floyd;26082;10;45
+complete graph ford;12823;10;45
+complete graph dijkstra queue;178139;60;1770
+complete graph dijkstra vector;166214;60;1770
+complete graph floyd;3101649;60;1770
+complete graph ford;1891364;60;1770
+complete graph dijkstra queue;252207;110;5995
+complete graph dijkstra vector;364348;110;5995
+complete graph floyd;12278548;110;5995
+complete graph ford;8466623;110;5995
+complete graph dijkstra queue;381965;160;12720
+complete graph dijkstra vector;624165;160;12720
+complete graph floyd;35481065;160;12720
+complete graph ford;24836715;160;12720
+complete graph dijkstra queue;571207;210;21945
+complete graph dijkstra vector;985582;210;21945
+complete graph floyd;78677823;210;21945
+complete graph ford;56590540;210;21945
+complete graph dijkstra queue;775107;260;33670
+complete graph dijkstra vector;1483348;260;33670
+complete graph floyd;147821982;260;33670
+complete graph ford;109190283;260;33670
+info;time;edges;ribs
+complete graph dijkstra queue;8082;10;45
+complete graph dijkstra vector;3365;10;45
+complete graph floyd;14216;10;45
+complete graph ford;7315;10;45
+complete graph dijkstra queue;97441;60;1770
+complete graph dijkstra vector;90040;60;1770
+complete graph floyd;2027223;60;1770
+complete graph ford;1411257;60;1770
+complete graph dijkstra queue;234923;110;5995
+complete graph dijkstra vector;326107;110;5995
+complete graph floyd;11979540;110;5995
+complete graph ford;8580257;110;5995
+complete graph dijkstra queue;432382;160;12720
+complete graph dijkstra vector;660699;160;12720
+complete graph floyd;35711491;160;12720
+complete graph ford;25697765;160;12720
+complete graph dijkstra queue;575165;210;21945
+complete graph dijkstra vector;1026689;210;21945
+complete graph floyd;82066040;210;21945
+complete graph ford;67101549;210;21945
+complete graph dijkstra queue;819357;260;33670
+complete graph dijkstra vector;1523282;260;33670
+complete graph floyd;151062123;260;33670
+complete graph ford;110543974;260;33670
